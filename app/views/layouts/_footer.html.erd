@@ -1,0 +1,7 @@
+<div class="footer">
+	<small>
+		<%= link_to "Sign up now!", "http://www.jamesonmarten.com" %>
+		by J.M.
+
+	</small>
+</div>
